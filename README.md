@@ -94,13 +94,13 @@ The goal of this project is to create a multifunctional embedded system board th
 ##  Project Preview
 
 ###  Schematic Design
-(images/Schematics.JPG)
+![Schematic](images/Schematics.JPG)
 ###  PCB Routing Layout
-(images/Layout.JPG)
+![Layout](images/Layout.JPG)
 ###  3D View
-(images/Front View.JPG)
-(images/Side View.JPG)
-(images/Back View.JPG)
+![3D](images/Front_View.JPG)
+![3D](images/Side_View.JPG)
+![3D](images/Back_View.JPG)
 
 ---
 
