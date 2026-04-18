@@ -1,4 +1,4 @@
-#  Custom Arduino Uno Compatible PCB (KiCad)
+#  Custom Arduino Uno Compatible PCB 
 
 ##  Overview
 
@@ -91,14 +91,16 @@ The goal of this project is to create a multifunctional embedded system board th
 
 ---
 
-## 🖼️ Project Preview
+##  Project Preview
 
-### 🔹 Schematic Design
-
-### 🔹 PCB Routing Layout
-
-### 🔹 3D View
-
+###  Schematic Design
+(images/Schematics.JPG)
+###  PCB Routing Layout
+(images/Layout.JPG)
+###  3D View
+(images/Front View.JPG)
+(images/Side View.JPG)
+(images/Back View.JPG)
 
 ---
 
